@@ -1,0 +1,19 @@
+.navlink{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+#loginlogout{
+    color: aqua;
+    align-items: right;
+}
+#navuser{
+    align-items: right;
+}
+
+#bannerimg{
+    width: 100%;
+    max-width: 100vw;
+    max-height: 20vh;
+}
